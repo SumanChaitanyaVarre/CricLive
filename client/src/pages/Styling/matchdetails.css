@@ -1,0 +1,20 @@
+.teams-container {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
+.img-container img {
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: auto;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
